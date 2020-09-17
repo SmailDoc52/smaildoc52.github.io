@@ -1,0 +1,86 @@
+* {
+    box-sizing: border-box;
+ }
+
+ body {
+     font-family: Tahoma, sans-serif;
+ }
+
+ .section1 {
+     margin: 100px auto;
+     
+ }
+
+ h1, h2 {
+    font-size: 20px;
+    font-weight: 900;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 1.5;
+    margin-bottom: 70px;
+}
+
+ .header span {
+    text-transform: none;
+    display: block;
+    font-weight: normal;
+ }
+
+ .form {
+     border: 5px solid blue;
+     padding: 30px 20px 20px 20px;
+ }
+
+ .form p {
+     font-weight: 900;
+     text-align: center;
+     font-weight: 900;
+     font-size: 20px;
+     margin-top: 27фpx;
+     margin-bottom: 30px;
+ }
+
+
+ .form input {
+    margin-top: 10px;
+    border: 1px solid black;
+    border-radius: 0px;
+ }
+
+ .btn-primary {
+    font-size: 20px;
+    margin: 25px auto;
+    background-color: blue;
+    border-radius: 0px;
+}
+
+h2 {
+    margin-bottom: 40px;
+}
+
+.feature {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.feature p {
+    font-weight: 900;
+    margin-top: 10px;
+}
+
+.video {
+    margin-bottom: 30px;
+}
+
+.section4 {
+    margin-top: 70px;
+    margin-bottom: 100px;
+}
+
+.photo {
+    margin-top: 30px;
+}
+
+.btn-2 {
+    padding: 15px 80px 15px 80px;
+}
